@@ -1,0 +1,17 @@
+{
+  "name": "bugscan",
+  "version": "1.0.0",
+  "main": "bugscan.js",
+  "license": "MIT",
+  "author": "lironnick",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.1.0",
+    "commander": "^14.0.0"
+  }
+}
