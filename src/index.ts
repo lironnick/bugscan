@@ -1,10 +1,10 @@
 import { program } from 'commander';
 import chalk from 'chalk';
 
-import { scan } from './lib/scanner.js';
-import { LinkFinder } from './lib/linkfinder.js';
-import { filtrarURLs } from './utils/filter.js';
-import { showProgress } from './utils/progress.js';
+import { scan } from '@/lib/scanner';
+import { LinkFinder } from '@/lib/linkfinder';
+import { filtrarURLs } from '@/utils/filter';
+import { showProgress } from '@/utils/process';
 
 program
   .name('bugscan')
@@ -20,7 +20,7 @@ program
     try {
       console.log(chalk.blue('[INFO] Processing STEP 1'));
 
-      const result = await scan(options.input, options.filter ?? null);
+      const result = await scan({ url: options.input, filter: options.filter ?? null });
 
       if (result && result.links) {
         console.log(chalk.green(`[SUCCESS] Files ${result.links.length}`));
@@ -36,8 +36,8 @@ program
           for (const [index, site] of result.links.entries()) {
             const finder = new LinkFinder();
             const content = await finder.downloadContent(site);
-            const links = finder.extractLinks(content, '' || site);
-            const filters = filtrarURLs(links, options.url);
+            const links = finder.extractLinks({ content, baseUrl: site });
+            const filters = filtrarURLs({ urls: links, filter: options.url }); // realizar filtro e retornar array
 
             // console.log('[EE]: ', filters);
 
@@ -48,7 +48,7 @@ program
             }
 
             processedUrls++;
-            showProgress(processedUrls, result.links.length, '[ETAPA 2] Scraping URLs');
+            showProgress({ current: processedUrls, total: result.links.length, title: 'Scraping URLs STEP 2' });
 
             console.log(chalk.blue(`[INFO] Analisando: ${site}`));
           }
@@ -63,8 +63,8 @@ program
           });
 
           console.log('📁 Urls processed:', {
-            qtd: result.links.length,
-            links: result.links,
+            qtd: allLinks.length,
+            links: allLinks,
           });
         } else {
           console.log(chalk.green.bold('✅ Analysis complete!'));

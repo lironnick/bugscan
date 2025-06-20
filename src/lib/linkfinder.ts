@@ -2,56 +2,41 @@ import https from 'https';
 import http from 'http';
 import { URL } from 'url';
 
-// Classe principal LinkFinder
+type StatsParams = {
+  filters: string[];
+};
+
 class LinkFinder {
+  private patterns: RegExp[];
+  private foundLinks: Set<string>;
+
   constructor() {
     this.patterns = [
-      // URLs completas
       /https?:\/\/[^\s"'<>]+/gi,
-
-      // Endpoints relativos
       /["'`]\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
-
-      // API endpoints
       /["'`]\/api\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
-
-      // Endpoints com parâmetros
       /["'`]\/[a-zA-Z0-9\/_\-\.]*\?[a-zA-Z0-9=&_\-]*["'`]/gi,
-
-      // Rotas do tipo "/users/{id}"
       /["'`]\/[a-zA-Z0-9\/_\-\.]*\{[a-zA-Z0-9_]*\}[a-zA-Z0-9\/_\-\.]*["'`]/gi,
-
-      // Endpoints em objetos
       /url\s*:\s*["'`]\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
-
-      // Ajax calls
       /\.get\s*\(\s*["'`]\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
       /\.post\s*\(\s*["'`]\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
       /\.put\s*\(\s*["'`]\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
       /\.delete\s*\(\s*["'`]\/[a-zA-Z0-9\/_\-\.]*["'`]/gi,
-
-      // Fetch API
       /fetch\s*\(\s*["'`][^"'`]*["'`]/gi,
-
-      // XMLHttpRequest
       /\.open\s*\(\s*["'`][^"'`]*["'`]\s*,\s*["'`][^"'`]*["'`]/gi,
-
-      // Axios
       /axios\.(get|post|put|delete|patch)\s*\(\s*["'`][^"'`]*["'`]/gi,
-
-      // jQuery AJAX
       /\$\.(get|post|ajax)\s*\(\s*["'`][^"'`]*["'`]/gi,
     ];
 
-    this.foundLinks = new Set();
+    this.foundLinks = new Set<string>();
   }
 
-  reset() {
+  reset(): void {
     this.foundLinks.clear();
   }
 
-  extractLinks(content, baseUrl) {
-    const links = new Set();
+  extractLinks({ content, baseUrl }: { content: string; baseUrl?: string }): string[] {
+    const links = new Set<string>();
 
     this.patterns.forEach((pattern) => {
       const matches = content.match(pattern);
@@ -60,7 +45,6 @@ class LinkFinder {
           let cleanLink = this.cleanLink(match);
 
           if (cleanLink && this.isValidLink(cleanLink)) {
-            // Se temos uma baseUrl e o link é relativo, constrói URL completa
             if (baseUrl && cleanLink.startsWith('/') && !cleanLink.startsWith('//')) {
               try {
                 const base = new URL(baseUrl);
@@ -80,10 +64,9 @@ class LinkFinder {
     return Array.from(links);
   }
 
-  cleanLink(match) {
+  cleanLink(match: string): string {
     let cleanLink = match.replace(/["'`]/g, '').trim();
 
-    // Remove prefixos de métodos
     cleanLink = cleanLink.replace(
       /^(\.get|\.post|\.put|\.delete|fetch|url\s*:|\.open|axios\.(get|post|put|delete|patch)|\$\.(get|post|ajax))\s*\(\s*/,
       ''
@@ -93,7 +76,7 @@ class LinkFinder {
     return cleanLink;
   }
 
-  isValidLink(link) {
+  isValidLink(link: string): boolean {
     if (link.length < 2) return false;
 
     const invalidExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.css', '.ico', '.svg', '.woff', '.woff2', '.ttf', '.webp'];
@@ -106,7 +89,7 @@ class LinkFinder {
     return true;
   }
 
-  async downloadContent(url) {
+  async downloadContent(url: string): Promise<string> {
     return new Promise((resolve, reject) => {
       const client = url.startsWith('https:') ? https : http;
 
@@ -139,7 +122,7 @@ class LinkFinder {
     });
   }
 
-  getStats({ filters }) {
+  getStats({ filters }: StatsParams): { total: number; filters: number; urls: number; endpoints: number; api: number } {
     const links = Array.from(this.foundLinks);
 
     return {
@@ -151,7 +134,7 @@ class LinkFinder {
     };
   }
 
-  getAllLinks() {
+  getAllLinks(): string[] {
     return Array.from(this.foundLinks).sort();
   }
 }
