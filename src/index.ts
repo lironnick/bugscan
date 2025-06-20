@@ -5,6 +5,7 @@ import { scan } from '@/lib/scanner';
 import { LinkFinder } from '@/lib/linkfinder';
 import { filtrarURLs } from '@/utils/filter';
 import { showProgress } from '@/utils/process';
+import { prisma } from '@/lib/prisma';
 
 program
   .name('bugscan')
@@ -52,6 +53,15 @@ program
 
             console.log(chalk.blue(`[INFO] Analisando: ${site}`));
           }
+
+          console.log(chalk.blue(`[INFO] Save in database`));
+
+          const scans = await prisma.scan.create({
+            data: {
+              values: allLinks.join(', '),
+              grossValues: JSON.stringify(allLinks),
+            },
+          });
 
           console.log(chalk.green.bold('✅ Analysis complete!'));
           console.log(chalk.white(`📁 Processed At: ${new Date().toISOString()}`));

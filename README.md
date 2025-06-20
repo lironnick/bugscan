@@ -69,3 +69,17 @@ yarn dev -i https://example.com/app.js -U 'app.exemplo.com, api.exemplo.com'
 | `-f, --filter <filter>` | Process only URLs with file type ex: .js containing given strings (separated by , ) |
 | `-u, --url`             | Extract all urls found in files                                                     |
 | `-U, --urls <urls>`     | Process only filtered URLs containing the given strings (separated by ,)            |
+
+## 🚀 Prisma
+
+### Migrate Database
+
+```bash
+npx prisma migrate dev --name init
+```
+
+### Migrate Database
+
+```bash
+npx prisma migrate dev --name init
+```
