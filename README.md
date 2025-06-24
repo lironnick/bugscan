@@ -62,6 +62,8 @@ yarn dev -i https://example.com/app.js -U 'app.exemplo.com, api.exemplo.com'
 | `-u, --url`           | Extract all urls found in files                   |
 | `-j, --javascript`    | Query only JS                                     |
 
+OBS: os arquivos são salvos no diretorio `./analysis` na raiz do projeto
+
 ## 🚀 Prisma
 
 ### Migrate Database
