@@ -2,7 +2,10 @@
 
 Bugscan é uma ferramenta para descobrir dados sensíveis de uma `URL`.
 
-## 🚀 Build `TypeScript`
+## 🚀 Build
+
+A ferramenta foi desenvolvida em `TypeScript` e para rodar é necessário fazer o build,
+ao fazer o build vai aparecer um diretorio `dist` para rodar pelo `javascript`.
 
 ### fazer build
 
@@ -10,24 +13,33 @@ Bugscan é uma ferramenta para descobrir dados sensíveis de uma `URL`.
 yarn build
 ```
 
-Vai aparecer um diretorio `dist` para rodar pelo `javascript` bastar rodar o comando:
-
 ```bash
-yarn start -i https://example.com/app.js
+yarn start [opções] <url>
 ```
 
 ou
 
 ```bash
-node dist/index.js -i https://example.com/app.js
+node dist/index.js [opções] <url>
 ```
 
-## 🚀 Uso
+### SEM build
+
+```bash
+yarn dev [opções] <input> [opções]
+```
+
+## Uso
 
 ### Sintaxe Básica
 
 ```bash
 node dist/index.js -i <input> [opções]
+```
+
+ou
+
+```bash
 yarn dev -i <input> [opções]
 ```
 
@@ -37,6 +49,11 @@ yarn dev -i <input> [opções]
 
 ```bash
 node dist/index.js -i https://example.com/app.js -j
+```
+
+ou
+
+```bash
 yarn dev -i https://example.com/app.js -j
 ```
 
@@ -44,6 +61,11 @@ yarn dev -i https://example.com/app.js -j
 
 ```bash
 node dist/index.js -i https://example.com/app.js -u
+```
+
+ou
+
+```bash
 yarn dev -i https://example.com/app.js -u
 ```
 
@@ -64,7 +86,7 @@ yarn dev -i https://example.com/app.js -U 'app.exemplo.com, api.exemplo.com'
 
 OBS: os arquivos são salvos no diretorio `./analysis` na raiz do projeto
 
-## 🚀 Prisma
+## Prisma
 
 ### Migrate Database
 
