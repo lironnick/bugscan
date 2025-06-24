@@ -71,3 +71,9 @@ OBS: os arquivos são salvos no diretorio `./analysis` na raiz do projeto
 ```bash
 npx prisma migrate dev --name init
 ```
+
+### Ver os dados no Database
+
+```bash
+npx prisma studio
+```
