@@ -4,6 +4,7 @@ import * as scannerServices from '@/services/scanner.services';
 
 import { showProgress } from '@/utils/process';
 import { createFile } from '@/utils/file';
+import { prisma } from '@/lib/prisma';
 
 type FinderJsAndUrlProps = {
   url: string;
@@ -39,6 +40,13 @@ export async function finderJsAndUrl({ url, filter }: FinderJsAndUrlProps) {
 
   if (allLinks.length > 0) {
     await createFile({ data: allLinks, nameFile: 'scan_url' });
+
+    await prisma.found.create({
+      data: {
+        name: 'url',
+        values: JSON.stringify(allLinks),
+      },
+    });
   }
 
   console.log(chalk.green.bold('✅ Analysis complete!'));

@@ -1,0 +1,1674 @@
+[
+  {
+    "baseUrl": "https://app.payfit.com/assets/DebugBarRedirectPage.fcdpkd9q.js",
+    "method": "GET",
+    "url": "redirectUrl",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/DebugBarRedirectPage.fcdpkd9q.js",
+    "method": "GET",
+    "url": "absoluteMonth",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "t",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "d",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "t",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "d",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "signature/editor/variables",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "t",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.Bd2EiEhJ.js",
+    "method": "GET",
+    "url": "d",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminDocumentsSepaRedirect.BAlFpsbK.js",
+    "method": "GET",
+    "url": "files/categories",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/Reports.D5k28XvJ.js",
+    "method": "GET",
+    "url": "x-filename",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.ZsnWbwQ7.js",
+    "method": "GET",
+    "url": "category",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DTnIIL_Z.js",
+    "method": "GET",
+    "url": "companyReference",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.lAYf_Pl1.js",
+    "method": "GET",
+    "url": "utm_source",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CIdjnNzt.js",
+    "method": "GET",
+    "url": "companyReference",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/BankPaymentsV1.AMQ-i63p.js",
+    "method": "GET",
+    "url": "reference",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/App.CUYZ-7Z5.js",
+    "method": "GET",
+    "url": "declaration/company/monthly",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CYEl5gg2.js",
+    "method": "GET",
+    "url": "month",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CYEl5gg2.js",
+    "method": "GET",
+    "url": "month",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CYEl5gg2.js",
+    "method": "GET",
+    "url": "buildDefinitionsParents",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CYEl5gg2.js",
+    "method": "GET",
+    "url": "sccDependenciesIndex",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/App.CKJ_J96g.js",
+    "method": "POST",
+    "url": "evaluate",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/App.CKJ_J96g.js",
+    "method": "POST",
+    "url": "evaluate",
+    "params": "{situation:{},expressions:[\"salarié . contrat . temps de travail . SMIC\"]}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/App.CKJ_J96g.js",
+    "method": "POST",
+    "url": "evaluate",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/App.DCaWjBi-.js",
+    "method": "GET",
+    "url": "action",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/App.DO5-LvTB.js",
+    "method": "GET",
+    "url": "payroll-bff/correction",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.C9gkVAT2.js",
+    "method": "GET",
+    "url": "individuals-bff/accounts",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/EmployeeAbsences.CX4d3XEN.js",
+    "method": "DELETE",
+    "url": "request-new",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/EmployeeAbsences.CX4d3XEN.js",
+    "method": "DELETE",
+    "url": "request-new",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "POST",
+    "url": "hr/company/info",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "POST",
+    "url": "hr/public/company/info",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "POST",
+    "url": "acquisition-api/init",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "POST",
+    "url": "auth/onboarding",
+    "params": "{token:i}",
+    "headers": {},
+    "config": {
+      "credentials": "include"
+    }
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "POST",
+    "url": "individuals-bff/users/confirm-invitation",
+    "params": "{token:i,userEmail:r}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "GET",
+    "url": "individuals-bff/accounts",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "DELETE",
+    "url": "code",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/PayfitApp.BB-FMTFX.js",
+    "method": "DELETE",
+    "url": "state",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.qAd3xKm1.js",
+    "method": "GET",
+    "url": "token",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.qAd3xKm1.js",
+    "method": "GET",
+    "url": "state",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DRVabI3P.js",
+    "method": "GET",
+    "url": "client_id",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DRVabI3P.js",
+    "method": "GET",
+    "url": "redirect_uri",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DRVabI3P.js",
+    "method": "GET",
+    "url": "scope",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DRVabI3P.js",
+    "method": "GET",
+    "url": "state",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DRVabI3P.js",
+    "method": "GET",
+    "url": "response_type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.ym7YPPLt.js",
+    "method": "GET",
+    "url": "token",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CoYxURyJ.js",
+    "method": "GET",
+    "url": "subdomain",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CoYxURyJ.js",
+    "method": "GET",
+    "url": "code",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CoYxURyJ.js",
+    "method": "GET",
+    "url": "state",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.CoYxURyJ.js",
+    "method": "GET",
+    "url": "error",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "POST",
+    "url": "hr/company/required-actions",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/ai-assistant/feedback",
+    "params": "{messageId:e.messageId,rating:e.rating}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/ai-assistant/thread",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "POST",
+    "url": "employees/collaborators/reminder-onboarding",
+    "params": "{collaboratorId:m}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "payroll-bff/run-payroll/status",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "cs-relationship/intercom/intercom-hash",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "entrypointId",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "cs-relationship/admin/ai-assistant/thread",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "cs-relationship/admin/ai-assistant/threads",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "actionId",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "redirectTo",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "GET",
+    "url": "Content-Type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/AdminSpace.9LduuofL.js",
+    "method": "PUT",
+    "url": "payroll-bff/run-payroll/subscription",
+    "params": "{runPayrollId:o}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/EmployeeSpace.Dx1oRfRT.js",
+    "method": "GET",
+    "url": "manager-managee-bff/orgchart/settings",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/EmployeeSpace.Dx1oRfRT.js",
+    "method": "GET",
+    "url": "cs-relationship/intercom/intercom-hash",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/ChangeAccountPage.DL06EtWi.js",
+    "method": "GET",
+    "url": "individuals-bff/accounts",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/ChangeAccountPage.DL06EtWi.js",
+    "method": "GET",
+    "url": "individuals-bff/accounts",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "POST",
+    "url": "/accessToken",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "month",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "month",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "buildDefinitionsParents",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "sccDependenciesIndex",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "inputSelectLinked.data",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "currentAbsMonth",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "hashtableId",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "save",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "tab",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "properties.jetlangCondition.condition",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "properties.jetlangValue",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "action.type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "action.employeeId",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "action.type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.esm.C9dPLWkz.js",
+    "method": "GET",
+    "url": "action.employeeId",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/auth.D4QFsn2Q.js",
+    "method": "GET",
+    "url": "response.data.message",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "hours",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "hours",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "minutes",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "minutes",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "hours",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "minutes",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "hours",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "minutes",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "hours",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/styles.Cc6t6M6S.js",
+    "method": "GET",
+    "url": "minutes",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "individuals-bff/users/create",
+    "params": "{password:s,primaryUserId:`${I.provider}|${I.user_id}`}",
+    "headers": "{Authorization:`Bearer ${E}`,\"Content-Type\":\"application/json\"}",
+    "config": {
+      "credentials": "include"
+    }
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "dbconnections/change_password",
+    "params": "{client_id:x.aud,connection:\"PayFit-Individual-Database\",email:x.email}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "/mfa/associate",
+    "params": {},
+    "headers": "{Authorization:`Bearer ${S}`,\"Content-Type\":\"application/json\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "/oauth/token",
+    "params": {},
+    "headers": "{Authorization:`Bearer ${c}`,\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "/oauth/token",
+    "params": {},
+    "headers": "{Authorization:`Bearer ${y}`,\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "/mfa/associate",
+    "params": {},
+    "headers": "{Authorization:`Bearer ${E}`,\"Content-Type\":\"application/json\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "individuals-bff/factor-enrollments/email",
+    "params": {},
+    "headers": "{Authorization:`Bearer ${P}`}",
+    "config": {
+      "credentials": "include"
+    }
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "individuals-bff/users/request-change-email",
+    "params": "{email:p}",
+    "headers": "{Authorization:`Bearer ${T}`,\"Content-Type\":\"application/json\"}",
+    "config": {
+      "credentials": "include"
+    }
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "POST",
+    "url": "individuals-bff/users/request-email-verification",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "GET",
+    "url": "individuals-bff/users/identities",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "GET",
+    "url": "individuals-bff/factor-enrollments",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "PUT",
+    "url": "individuals-bff/factor-enrollments/recovery-code",
+    "params": "{mfaToken:g}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DiDf-fM9.js",
+    "method": "PUT",
+    "url": "individuals-bff/users/confirm-change-email",
+    "params": "{token:T.token}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/vendors.C7m3hIXP.js",
+    "method": "GET",
+    "url": "time-absences-api/api/calendar",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.BfwYGPJQ.js",
+    "method": "GET",
+    "url": "settings.userAccount.employeeDirectory",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/Mux.DOrdF4Q5.js",
+    "method": "GET",
+    "url": "mux-player",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DaxtLJ3I.js",
+    "method": "POST",
+    "url": "employees/collaborators/onboard",
+    "params": "{company:h,email:b,firstName:y,lastName:c}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/OverflowTooltipText.UEiMM0Qw.js",
+    "method": "GET",
+    "url": "payroll-v2/jetlang/menu",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.BG9LOFpI.js",
+    "method": "GET",
+    "url": "individuals-bff/accounts",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/useCurrentCompanyModules.DutnlfUu.js",
+    "method": "POST",
+    "url": "modules-bff/companies/get-modules",
+    "params": "{companyIds:t}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/queryOptions.Dv5YYQ-E.js",
+    "method": "GET",
+    "url": "people/menuItem",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/DocumentExplorerProvider.CbV1SzFk.js",
+    "method": "POST",
+    "url": "files/zip",
+    "params": {},
+    "headers": "{\"content-type\":\"application/json\",Accept:\"application/zip\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/DocumentExplorerProvider.CbV1SzFk.js",
+    "method": "POST",
+    "url": "folders/zip",
+    "params": {},
+    "headers": "{\"Content-Type\":\"application/json\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/DocumentExplorerProvider.CbV1SzFk.js",
+    "method": "POST",
+    "url": "documents/zip/query/sync",
+    "params": {},
+    "headers": "{\"content-type\":\"application/json\",Accept:\"application/zip\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/api.CpBBJ5MU.js",
+    "method": "GET",
+    "url": "time-absences-api/api/v2/absences/admin/calendar",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "hr/company/info",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "hr/company/settings/employees",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "hr/user/info",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "/accessToken",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "employees/employee",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "modules-bff/companies/get-modules",
+    "params": "{companyIds:Ai}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "documents/zip/bulk",
+    "params": {},
+    "headers": "{\"Content-Type\":\"application/json\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "documents/zip/query",
+    "params": {},
+    "headers": "{\"Content-Type\":\"application/json\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "files/file",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "files/categories/extraction",
+    "params": {},
+    "headers": "{\"Content-Type\":\"application/json\"}",
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/csat-feedback",
+    "params": "{threadId:Ai.threadId,rating:Ai.rating,justification:Ai.justification}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/copilot/thread",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/copilot/thread",
+    "params": "{content:Ai.content,threadId:Ai.threadId,entrypointId:Ai.entrypointId,agentId:Ai.agentId,askForStream:Ai.askForStream,createdAt:Ai.createdAt,promptVariables:Ai.promptVariables}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/ticket/send",
+    "params": "{threadId:Ai.threadId,ticketId:Ai.ticketId}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/copilot/escalation-status",
+    "params": "{threadId:Ma,status:Da}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/abort-conversation",
+    "params": "{threadId:Ai}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/end-conversation",
+    "params": "{threadId:Ai,endReason:$a}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/acknowledge-entries",
+    "params": "{acks:Ai}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/send-file",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/send-message",
+    "params": "{message:Ai,messageId:$a}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/conversation",
+    "params": "{threadId:Ai}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/copilot/thread-status",
+    "params": "{threadId:Ai,status:$a}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/live-chat/escalation",
+    "params": "{threadId:Ai}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "cs-relationship/admin/copilot/feedback",
+    "params": "{messageId:Ai.messageId,rating:Ai.rating,entrypointId:Ai.entrypointId,agentId:Ai.agentId}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "POST",
+    "url": "payroll-bff/socket/auth",
+    "params": "{socketId:za,channelName:Qa}",
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "auth0.is.authenticated",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "shouldCleanSessionChoice",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "accept",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "Retry-After",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-length",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "edgeauthenticated",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-length",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-length",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "employees/collaborators",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "employees/teams",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "hr/core-entities/collaborators",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "payroll-v2/jetlang/menu",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "fs",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "canvas",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "Content-Length",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "Accept-Ranges",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "Content-Encoding",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "Content-Disposition",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "url",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "http",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "https",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "fs",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "fs",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "color",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "hasAltText",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "aria-label",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "X-Filename",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "Content-Type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "hr/core-entities/collaborators",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "files/document-types",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "files/document-types-upload",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "documents",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "documents/collaborator/pay-periods",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "drag",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "wheel",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "scroll",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "move",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "pinch",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "hover",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "X-Request-URL",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "cs-relationship/admin/copilot/threads",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "cs-relationship/admin/copilot/thread",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "content-type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "payroll-bff/company-notification",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "payroll-bff/run-payroll/completed",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "milliseconds",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "seconds",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "minutes",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "hours",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "days",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "weeks",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "months",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "GET",
+    "url": "years",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "DELETE",
+    "url": "content-type",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.B3NeEBwf.js",
+    "method": "DELETE",
+    "url": "fillCanvas",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.D9Z4oro2.js",
+    "method": "GET",
+    "url": "folderIds",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.D9Z4oro2.js",
+    "method": "DELETE",
+    "url": "folderIds",
+    "params": {},
+    "headers": {},
+    "config": {}
+  },
+  {
+    "baseUrl": "https://app.payfit.com/assets/index.DZmE78AI.js",
+    "method": "GET",
+    "url": "talent-management/admin/one-one/activations",
+    "params": {},
+    "headers": {},
+    "config": {}
+  }
+]

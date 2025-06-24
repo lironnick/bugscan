@@ -2,6 +2,8 @@ import { program } from 'commander';
 import chalk from 'chalk';
 
 import { filterJsData, finderJsAndUrl } from '@/controllers/scanner.controller';
+import { testRequest } from '@/controllers/testRequest.controller';
+import { prisma } from './lib/prisma';
 
 program
   .name('bugscan')
@@ -12,7 +14,7 @@ program
   .option('-j, --javascript', 'Query only JS')
   // .option('-U, --url <filtro>', 'Process only filtered URLs containing the given strings (separated by ,)')
   // .option('-f, --filter <filter>', 'Process only URLs with file type ex: .js containing given strings (separated by |)')
-  // .option('-t, --test', 'Teste de codigo')
+  .option('-t, --test', 'Teste de codigo')
   .action(async (options) => {
     // console.log('Command: ', { options });
 
@@ -31,8 +33,12 @@ program
       /* ============================ FIM TEST ============================*/
     } else if (options.test) {
       /* === --t --test para teste === */
+      await testRequest();
       /* ============================ FIM TEST ============================*/
     } else {
+      // const teste = await prisma.found.create({ data: { values: 'ola' } });
+
+      // console.log({ teste });
       console.error(chalk.red(`❌ Error: no command was passed.`));
     }
   })

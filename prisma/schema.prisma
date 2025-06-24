@@ -13,12 +13,12 @@ datasource db {
 }
 
 
-model Scan {
-  id            Int     @id @default(autoincrement())
-  values        String
-  grossValues   String @map("gross_values")
+model Found {
+  id            Int         @id @default(autoincrement())
+  name          String      
+  values        String      @map("values")
   createdAt     DateTime    @default(now())  @map("created_at")
   updatedAt     DateTime    @updatedAt       @map("updated_at")
 
-  @@map("scan")
+  @@map("found")
 }

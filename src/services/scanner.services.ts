@@ -4,6 +4,7 @@ import { scannerJs } from '@/lib/scanner';
 import { createFile } from '@/utils/file';
 import { showProgress } from '@/utils/process';
 import { FilteredRequestData, JSReader } from '@/lib/scan';
+import { prisma } from '@/lib/prisma';
 
 type FinderJsProps = {
   url: string;
@@ -19,6 +20,13 @@ export async function finderJs({ url, filter }: FinderJsProps) {
 
   if (jsResult && jsResult.links.length > 0) {
     await createFile({ data: jsResult.links, nameFile: 'scan_js' });
+
+    await prisma.found.create({
+      data: {
+        name: 'js',
+        values: JSON.stringify(jsResult.links),
+      },
+    });
 
     console.log(chalk.green(`[SUCCESS] Files ${jsResult.links.length}`));
     return jsResult.links;
