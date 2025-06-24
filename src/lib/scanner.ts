@@ -12,7 +12,7 @@ type ScanResult = {
   links: string[];
 };
 
-export async function scan({ url, filter }: { url: string; filter?: string | null }): Promise<ScanResult> {
+export async function scannerJs({ url, filter }: { url: string; filter?: string | null }): Promise<ScanResult> {
   if (!url) throw new Error('URL é obrigatória');
 
   const visitedUrls = new Set<string>();

@@ -1,6 +1,6 @@
 {
   "name": "bugscan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "bugscan.js",
   "license": "MIT",
   "author": "lironnick",
